@@ -5,47 +5,47 @@
       "nombre_cientifico": "Tachybaptus ruficollis",
       "jpg": "tachybaptusruficollis.jpg",
       "png": "tachybaptusruficollis.png",
-      "referencia": "https://commons.wikimedia.org/wiki/File:Zwergtaucher_060319_3.jpg"
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zwergtaucher_060319_3.jpg"
     },
     {
       "id": 1,
       "nombre_comun": "Somormujo Lavanco",
       "nombre_cientifico": "Podiceps cristatus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "podicepscristatus.jpg",
+      "png": "podicepscristatus.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/2/27/Podiceps_cristatus_2_-_Lake_Dulverton.jpg"
     },
     {
       "id": 2,
       "nombre_comun": "Zampullín Cuellinegro",
       "nombre_cientifico": "Podiceps nigricollis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Podicepsnigricollis.jpg",
+      "png": "Podicepsnigricollis.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Podiceps_nigricollis_%28Marek_Szczepanek%292.jpg"
     },
     {
       "id": 3,
       "nombre_comun": "Petrel de Bulwer",
       "nombre_cientifico": "Bulweria bulwerii",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Bulwerspetrel.jpg",
+      "png": "Bulwerspetrel.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bulwers_petrel.jpg"
     },
     {
       "id": 4,
       "nombre_comun": "Pardela Cenicienta Atlántica",
       "nombre_cientifico": "Calonectris borealis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Calonectrisborealis.jpg",
+      "png": "Calonectrisborealis.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/4/47/Cagarro_-_Calonectris_borealis%2C_Terceira%2C_A%C3%A7ores.jpg"
     },
     {
       "id": 5,
       "nombre_comun": "Pardela Cenicienta Mediterránea",
       "nombre_cientifico": "Calonectris diomedea",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Calonectrisdiomedea.jpg",
+      "png": "Calonectrisdiomedea.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/d/d6/CorysShearwaterBottom.jpg"
     },
     {
       "id": 6,
