@@ -51,25 +51,25 @@
       "id": 6,
       "nombre_comun": "Pardela Sombría",
       "nombre_cientifico": "Ardenna grisea",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Ardennagrisea.jpg",
+      "png": "Ardennagrisea.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sooty_shearwater_kaikoura.jpg"
     },
     {
       "id": 7,
       "nombre_comun": "Pardela Pichoneta",
       "nombre_cientifico": "Puffinus puffinus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Puffinuspuffinus.jpg",
+      "png": "Puffinuspuffinus.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/b/ba/800%2CManx_shearwater.jpg"
     },
     {
       "id": 8,
       "nombre_comun": "Pardela Balear",
       "nombre_cientifico": "Puffinus mauretanicus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Puffinusmauretanicus.jpg",
+      "png": "Puffinusmauretanicus.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/6/62/Puffinus_mauretanicus.jpg"
     },
     {
       "id": 9,
