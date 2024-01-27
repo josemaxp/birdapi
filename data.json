@@ -75,33 +75,33 @@
       "id": 9,
       "nombre_comun": "Pardela Mediterránea",
       "nombre_cientifico": "Puffinus yelkouan",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Puffinusyelkouan.jpg",
+      "png": "Puffinusyelkouan.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ma_-_Puffinus_yelkouan.jpg"
     },
     {
       "id": 10,
       "nombre_comun": "Pardela Chica",
       "nombre_cientifico": "Puffinus assimilis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Puffinusassimilis.jpg",
+      "png": "Puffinusassimilis.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Little_shearwater_%28Puffinus_assimilis%29.jpg"
     },
     {
       "id": 11,
       "nombre_comun": "Paíño Pechialbo",
       "nombre_cientifico": "Pelagodroma marina",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Pelagodromamarina.jpg",
+      "png": "Pelagodromamarina.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pelagodroma_marina_-_SE_Tasmania.jpg"
     },
     {
       "id": 12,
       "nombre_comun": "Paíño Europeo",
       "nombre_cientifico": "Hydrobates pelagicus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Hydrobatespelagicus.jpg",
+      "png": "Hydrobatespelagicus.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/f/f0/European_Storm-petrel.jpg"
     },
     {
       "id": 13,
