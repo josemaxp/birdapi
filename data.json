@@ -107,25 +107,25 @@
       "id": 13,
       "nombre_comun": "Paíño de Madeira",
       "nombre_cientifico": "Oceanodroma castro",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Oceanodromacastro.jpg",
+      "png": "Oceanodromacastro.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Band-rumped_Petrel_From_The_Crossley_ID_Guide_Eastern_Birds.jpg"
     },
     {
       "id": 14,
       "nombre_comun": "Rabijunco Etéreo",
       "nombre_cientifico": "Phaeton aethereus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Phaetonaethereus.jpg",
+      "png": "Phaetonaethereus.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Phaethon_aethereus_Little_Tobago.jpg"
     },
     {
       "id": 15,
       "nombre_comun": "Cormorán Grande",
       "nombre_cientifico": "Phalacrocorax carbo",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Phalacrocoraxcarbo.jpg",
+      "png": "Phalacrocoraxcarbo.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/6/68/Phalacrocorax_carbo_Vic.jpg"
     },
     {
       "id": 16,
@@ -139,17 +139,17 @@
       "id": 17,
       "nombre_comun": "Cormorán Pigmeo",
       "nombre_cientifico": "Phalacrocorax pygmeus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Phalacrocoraxaristotelis.jpg",
+      "png": "Phalacrocoraxaristotelis.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/4/47/Shag_at_Brownsea_Isalnd_%288501110738%29.jpg"
     },
     {
       "id": 18,
       "nombre_comun": "Avetoro Común",
       "nombre_cientifico": "Botaurus stellaris",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Botaurusstellaris.jpg",
+      "png": "Botaurusstellaris.png",
+      "referencia": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bittern_-_Botaurus_stellaris.jpg"
     },
     {
       "id": 19,
