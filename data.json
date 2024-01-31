@@ -323,17 +323,17 @@
       "id": 40,
       "nombre_comun": "Cerceta Carretona",
       "nombre_cientifico": "Spatula querquedula",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Spatulaquerquedula.jpg",
+      "png": "Spatulaquerquedula.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Anas_querquedula,_Llobregat_Delta,_Barcelona_7.jpg"
     },
     {
       "id": 41,
       "nombre_comun": "Cuchara Común",
       "nombre_cientifico": "Spatula clypeata",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Spatulaclypeata.jpg",
+      "png": "Spatulaclypeata.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Northern_Shoveler_Anas_clypeata.jpg"
     },
     {
       "id": 42,
