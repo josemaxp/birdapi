@@ -235,65 +235,65 @@
       "id": 29,
       "nombre_comun": "Morito Común",
       "nombre_cientifico": "Plegadis falcinellus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Plegadisfalcinellus.jpg",
+      "png": "Plegadisfalcinellus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Glossy_Ibis,_Plegadis_falcinellus_at_Marievale_Nature_Reserve,_Gauteng,_South_Africa._Marievale_is_probably_the_best_place_to_see_this_bird._(20927313419).jpg"
     },
     {
       "id": 30,
       "nombre_comun": "Espátula Común",
       "nombre_cientifico": "Platalea leucorodia",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Platalealeucorodia.jpg",
+      "png": "Platalealeucorodia.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Eurasian_Spoonbill-2.jpg"
     },
     {
       "id": 31,
       "nombre_comun": "Ibis Eremita",
       "nombre_cientifico": "Geronticus eremita",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Geronticuseremita.jpg",
+      "png": "Geronticuseremita.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Waldrapp_Geronticus_eremita.jpg"
     },
     {
       "id": 32,
       "nombre_comun": "Flamenco Común",
       "nombre_cientifico": "Phoenicopterus roseus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Phoenicopterusroseus.jpg",
+      "png": "Phoenicopterusroseus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Phoenicopterus_roseus_(Walvis_bay).jpg"
     },
     {
       "id": 33,
       "nombre_comun": "Ánsar común",
       "nombre_cientifico": "Anser anser",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Anseranser.jpg",
+      "png": "Anseranser.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Greylag-Goose.jpg"
     },
     {
       "id": 34,
       "nombre_comun": "Tarro Canelo",
       "nombre_cientifico": "Tadorna ferruginea",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Tadornaferruginea.jpg",
+      "png": "Tadornaferruginea.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:A_couple_of_Tadorna_ferruginea.jpg"
     },
     {
       "id": 35,
       "nombre_comun": "Tarro blanco",
       "nombre_cientifico": "Tadorna tadorna",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Tadornatadorna.jpg",
+      "png": "Tadornatadorna.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Common_Shelduck_(Tadorna_tadorna)_at_Sylvan_Heights.jpg"
     },
     {
       "id": 36,
       "nombre_comun": "Anade Friso",
       "nombre_cientifico": "Mareca strepera",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Marecastrepera.jpg",
+      "png": "Marecastrepera.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Gadwall-Anas-strepera.jpg"
     },
     {
       "id": 37,
