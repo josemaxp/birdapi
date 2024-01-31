@@ -339,89 +339,89 @@
       "id": 42,
       "nombre_comun": "Cerceta Pardilla",
       "nombre_cientifico": "Marmaronetta angustirostris",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Marmaronettaangustirostris.jpg",
+      "png": "Marmaronettaangustirostris.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Marmaronetta_angustirostris_qtl1.jpg"
     },
     {
       "id": 43,
       "nombre_comun": "Pato Colorado",
       "nombre_cientifico": "Netta rufina",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Nettarufina.jpg",
+      "png": "Nettarufina.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Netta_rufina_m2.jpg"
     },
     {
       "id": 44,
       "nombre_comun": "Porrón Europeo",
       "nombre_cientifico": "Aythya ferina",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Aythyaferina.jpg",
+      "png": "Aythyaferina.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Male_pochard_reflection_in_evening.jpg"
     },
     {
       "id": 45,
       "nombre_comun": "Porrón Pardo",
       "nombre_cientifico": "Aythya nyroca",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Aythyanyroca.jpg",
+      "png": "Aythyanyroca.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Aythya_nyroca_at_Martin_Mere_1.jpg"
     },
     {
       "id": 46,
       "nombre_comun": "Porrón Moñudo",
       "nombre_cientifico": "Aythya fuligula",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Aythyafuligula.jpg",
+      "png": "Aythyafuligula.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Duck_-_Richmond_Park_(6932900915).jpg"
     },
     {
       "id": 47,
       "nombre_comun": "Malvasía cabeciblanca",
       "nombre_cientifico": "Oxyura leucocephala",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Oxyuraleucocephala.jpg",
+      "png": "Oxyuraleucocephala.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:White-headed_Duck_(Oxyura_leucocephala)_RWD1.jpg"
     },
     {
       "id": 48,
       "nombre_comun": "Abejero Europeo",
       "nombre_cientifico": "Pernis apivorus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Pernisapivorus.jpg",
+      "png": "Pernisapivorus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Wespenbussard_European_honey_buzzard_Pernis_apivorus.jpg"
     },
     {
       "id": 49,
       "nombre_comun": "Elanio Común",
       "nombre_cientifico": "Elanus caeruleus",
-      "JPG": "nulo",
-      "PNG": "nulo",
-      "REFERENCIA": "nulo"
+      "jpg": "Elanuscaeruleus.jpg",
+      "png": "Elanuscaeruleus.png",
+      "REFERENCIA": "https://commons.wikimedia.org/wiki/File:Elanus_caeruleus_1M2A4739_(45250487704).jpg"
     },
     {
       "id": 50,
       "nombre_comun": "Milano Real",
       "nombre_cientifico": "Milvus milvus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Milvusmilvus.jpg",
+      "png": "Milvusmilvus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Red_Kite_-_Gigrin_Farm_(10359058775).jpg"
     },
     {
       "id": 51,
       "nombre_comun": "Quebrantahuesos",
       "nombre_cientifico": "Gypaetus barbatus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Gypaetusbarbatus.jpg",
+      "png": "Gypaetusbarbatus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Bartgeier_Gypaetus_barbatus_front_Richard_Bartz.jpg"
     },
     {
       "id": 52,
       "nombre_comun": "Alimoche Común",
       "nombre_cientifico": "Neophron percnopterus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Neophronpercnopterus.jpg",
+      "png": "Neophronpercnopterus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Egyptian_Vulture_N.p.Ginginianus_Keoladeo_Ghana_National_Park_Bharatpur_Rajasthan_India_18.02.2013.jpg"
     },
     {
       "id": 53,
