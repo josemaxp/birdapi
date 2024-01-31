@@ -155,81 +155,81 @@
       "id": 19,
       "nombre_comun": "Avetorillo Común",
       "nombre_cientifico": "Ixobrychus minutus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Ixobrychusminutus.jpg",
+      "png": "Ixobrychusminutus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Little_bittern_(Ixobrychus_minutus).JPG"
     },
     {
       "id": 20,
       "nombre_comun": "Martinete Común",
       "nombre_cientifico": "Nycticorax nycticorax",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Nycticoraxnycticorax.jpg",
+      "png": "Nycticoraxnycticorax.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Black_Crowned_Night_Heron_(5770945257).jpg"
     },
     {
       "id": 21,
       "nombre_comun": "Garcilla Cangrejera",
       "nombre_cientifico": "Ardeola ralloides",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Ardeolaralloides.jpg",
+      "png": "Ardeolaralloides.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Crabier_chevelu.jpg"
     },
     {
       "id": 22,
       "nombre_comun": "Garcilla Bueyera",
       "nombre_cientifico": "Bubulcus ibis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Bubulcusibis.jpg",
+      "png": "Bubulcusibis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Cattle_Egret_I_IMG_7820.jpg"
     },
     {
       "id": 23,
       "nombre_comun": "Garceta Común",
       "nombre_cientifico": "Egretta garzetta",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Egrettagarzetta.jpg",
+      "png": "Egrettagarzetta.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Little_egret_(Egretta_garzetta)_Photograph_by_Shantanu_Kuveskar.jpg"
     },
     {
       "id": 24,
       "nombre_comun": "Garceta Grande",
       "nombre_cientifico": "Ardea alba",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Ardeaalba.jpg",
+      "png": "Ardeaalba.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Silberreiher46.jpg"
     },
     {
       "id": 25,
       "nombre_comun": "Garza Real",
       "nombre_cientifico": "Ardea cinerea",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Ardeacinerea.jpg",
+      "png": "Ardeacinerea.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_-_Pak_Thale.jpg"
     },
     {
       "id": 26,
       "nombre_comun": "Garza Imperial",
       "nombre_cientifico": "Ardea purpurea",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Ardeapurpurea.jpg",
+      "png": "Ardeapurpurea.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:2010-kabini-purple-heron.jpg"
     },
     {
       "id": 27,
       "nombre_comun": "Cigüeña Negra",
       "nombre_cientifico": "Ciconia nigra",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Ciconianigra.jpg",
+      "png": "Ciconianigra.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Wildpark_Bad_Mergentheim._Schwarzstorch.jpg"
     },
     {
       "id": 28,
       "nombre_comun": "Cigüeña Blanca",
       "nombre_cientifico": "Ciconia ciconia",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Ciconiaciconia.jpg",
+      "png": "Ciconiaciconia.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Stork_(Palic,_Serbia).jpg"
     },
     {
       "id": 29,
