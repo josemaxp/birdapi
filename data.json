@@ -299,17 +299,17 @@
       "id": 37,
       "nombre_comun": "Cerceta Común",
       "nombre_cientifico": "Anas crecca",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Anascrecca.jpg",
+      "png": "Anascrecca.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Anas_carolinensis_(Green-winged_Teal)_male.jpg"
     },
     {
       "id": 38,
       "nombre_comun": "Anade Azulón",
       "nombre_cientifico": "Anas platyrhynchos",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Anasplatyrhynchos.jpg",
+      "png": "Anasplatyrhynchos.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female_quadrat.jpg"
     },
     {
       "id": 39,
