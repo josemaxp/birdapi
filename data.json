@@ -427,281 +427,281 @@
       "id": 53,
       "nombre_comun": "Buitre leonado",
       "nombre_cientifico": "Gyps fulvus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Gypsfulvus.jpg",
+      "png": "Gypsfulvus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Gyps_fulvus_Ay%C3%B3dar.jpg"
     },
     {
       "id": 54,
       "nombre_comun": "Buitre Negro",
       "nombre_cientifico": "Aegypius monachus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Aegypiusmonachus.jpg",
+      "png": "Aegypiusmonachus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Buitre_negro.jpg"
     },
     {
       "id": 55,
       "nombre_comun": "Culebrera Europea",
       "nombre_cientifico": "Circaetus gallicus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Circaetusgallicus.jpg",
+      "png": "Circaetusgallicus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Short-toed_Eagle_-_Castuera_-_Extremadura_S4E6234_(14554066988).jpg"
     },
     {
       "id": 56,
       "nombre_comun": "Aguilucho Lagunero Occidental",
       "nombre_cientifico": "Circus aeruginosus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Circusaeruginosus.jpg",
+      "png": "Circusaeruginosus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg"
     },
     {
       "id": 57,
       "nombre_comun": "Aguilucho Pálido",
       "nombre_cientifico": "Circus cyaneus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Circuscyaneus.jpg",
+      "png": "Circuscyaneus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Weibliche_Kornweihe_(circus_cyaneus)_-_Spiekeroog,_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg"
     },
     {
       "id": 58,
       "nombre_comun": "Aguilucho Cenizo",
       "nombre_cientifico": "Circus pygargus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Circuspygargus.jpg",
+      "png": "Circuspygargus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Montagu%27s_Harrier-_Male.JPG"
     },
     {
       "id": 59,
       "nombre_comun": "Azor Común",
       "nombre_cientifico": "Accipiter gentilis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Accipitergentilis.jpg",
+      "png": "Accipitergentilis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Northern_Goshawk_ad_M2.jpg"
     },
     {
       "id": 60,
       "nombre_comun": "Gavilán Común",
       "nombre_cientifico": "Accipiter nisus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Accipiternisus.jpg",
+      "png": "Accipiternisus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Eurasian_Sparrowhawk_by_Steve_Ward.jpg"
     },
     {
       "id": 61,
       "nombre_comun": "Busardo Ratonero",
       "nombre_cientifico": "Buteo buteo",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Buteobuteo.JPG",
+      "png": "Buteobuteo.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Buteo_5(loz).JPG"
     },
     {
       "id": 62,
       "nombre_comun": "Aguila Imperial Ibérica",
       "nombre_cientifico": "Aquila adalberti",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Aquilaadalberti.jpg",
+      "png": "Aquilaadalberti.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Aguila_Imperial_Entrando_Al_Posadero_(125891767).jpeg"
     },
     {
       "id": 63,
       "nombre_comun": "Aguila Real",
       "nombre_cientifico": "Aquila chrysaetos",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Aquilachrysaetos.jpg",
+      "png": "Aquilachrysaetos.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Maakotka_(Aquila_chrysaetos)_by_Jarkko_J%C3%A4rvinen.jpg"
     },
     {
       "id": 64,
       "nombre_comun": "Aguililla Calzada",
       "nombre_cientifico": "Hieraaetus pennatus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Hieraaetuspennatus.jpg",
+      "png": "Hieraaetuspennatus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:AquilaPennata.jpg"
     },
     {
       "id": 65,
       "nombre_comun": "Aguila Pescadora",
       "nombre_cientifico": "Pandion haliaetus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Pandionhaliaetus.jpg",
+      "png": "Pandionhaliaetus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Osprey_-_Lee_Point.jpg"
     },
     {
       "id": 66,
       "nombre_comun": "Cernícalo Primilla",
       "nombre_cientifico": "Falco naumanni",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Falconaumanni.jpg",
+      "png": "Falconaumanni.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Lesser_Kestrel_from_Fujeirah.jpg"
     },
     {
       "id": 67,
       "nombre_comun": "Cernícalo Vulgar",
       "nombre_cientifico": "Falco tinnunculus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Falcotinnunculus.jpg",
+      "png": "Falcotinnunculus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg"
     },
     {
       "id": 68,
       "nombre_comun": "Alcotán Europeo",
       "nombre_cientifico": "Falco subbuteo",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Falcosubbuteo.jpg",
+      "png": "Falcosubbuteo.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Eurasian_hobby_(Falco_subbuteo)_by_Shantanu_Kuveskar.jpg"
     },
     {
       "id": 69,
       "nombre_comun": "Halcón de Eleonora",
       "nombre_cientifico": "Falco eleonorae",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Falcoeleonorae.jpg",
+      "png": "Falcoeleonorae.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Eleonorenfalke1.jpg"
     },
     {
       "id": 70,
       "nombre_comun": "Halcón Peregrino",
       "nombre_cientifico": "Falco peregrinus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Falcoperegrinus.jpg",
+      "png": "Falcoperegrinus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_-_01.jpg"
     },
     {
       "id": 71,
       "nombre_comun": "Lagópodo Alpino",
       "nombre_cientifico": "Lagopus muta",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Lagopusmuta.jpg",
+      "png": "Lagopusmuta.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Lagopus_muta_-Iceland-8.jpg"
     },
     {
       "id": 72,
       "nombre_comun": "Urogallo Común",
       "nombre_cientifico": "Tetrao urogallus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Tetraourogallus.jpg",
+      "png": "Tetraourogallus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Tetrao_urogallus_Richard_Bartz.jpg"
     },
     {
       "id": 73,
       "nombre_comun": "Perdiz Roja",
       "nombre_cientifico": "Alectoris rufa",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Alectorisrufa.jpg",
+      "png": "Alectorisrufa.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Perdiz_roja.jpg"
     },
     {
       "id": 74,
       "nombre_comun": "Perdiz Moruna",
       "nombre_cientifico": "Alectoris barbara",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Alectorisbarbara.jpg",
+      "png": "Alectorisbarbara.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Alectoris_barbara_Tenerife.jpg"
     },
     {
       "id": 75,
       "nombre_comun": "Perdiz pardilla",
       "nombre_cientifico": "Perdix perdix",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Perdixperdix.jpg",
+      "png": "Perdixperdix.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Nurmkana.jpg"
     },
     {
       "id": 76,
       "nombre_comun": "Codorniz Común",
       "nombre_cientifico": "Coturnix coturnix",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Coturnixcoturnix.jpg",
+      "png": "Coturnixcoturnix.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Coturnix_coturnix_(Warsaw_zoo)-1.JPG"
     },
     {
       "id": 77,
       "nombre_comun": "Faisán Vulgar",
       "nombre_cientifico": "Phasianus colchicus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Phasianuscolchicus.jpg",
+      "png": "Phasianuscolchicus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Common_Pheasant_RWD2.jpg"
     },
     {
       "id": 78,
       "nombre_comun": "Torillo Andaluz",
       "nombre_cientifico": "Turnix sylvaticus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Turnixsylvaticus.jpg",
+      "png": "Turnixsylvaticus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Small_Button-quail_-_Mara_-_KenyaIMG_2946_(15363383978).jpg"
     },
     {
       "id": 79,
       "nombre_comun": "Rascón Europeo",
       "nombre_cientifico": "Rallus aquaticus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Rallusaquaticus.jpg",
+      "png": "Rallusaquaticus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Water_rail_2022_04_30_01.jpg"
     },
     {
       "id": 80,
       "nombre_comun": "Polluela Pintoja",
       "nombre_cientifico": "Porzana porzana",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Porzanaporzana.jpg",
+      "png": "Porzanaporzana.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Porzana_porzana_1_(Marek_Szczepanek).jpg"
     },
     {
       "id": 81,
       "nombre_comun": "Polluela Bastarda",
       "nombre_cientifico": "Zapornia parva",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Zaporniaparva.jpg",
+      "png": "Zaporniaparva.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Porzana_parva_(50).jpg"
     },
     {
       "id": 82,
       "nombre_comun": "Polluela Chica",
       "nombre_cientifico": "Zapornia pusilla",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Zaporniapusilla.jpg",
+      "png": "Zaporniapusilla.png",
+      "referencia": "https://es.wikipedia.org/wiki/Porzana_pusilla#/media/Archivo:Porzana_pusilla.jpg"
     },
     {
       "id": 83,
       "nombre_comun": "Gallineta Común",
       "nombre_cientifico": "Gallinula chloropus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Gallinulachloropus.jpg",
+      "png": "Gallinulachloropus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Common-Moorhen.jpg"
     },
     {
       "id": 84,
       "nombre_comun": "Calamón Común",
       "nombre_cientifico": "Porphyrio porphyrio",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Porphyrioporphyrio.jpg",
+      "png": "Porphyrioporphyrio.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Porphyrio_porphyrio,_P%C3%AAra,_Algarve,_Portugal_2.jpg"
     },
     {
       "id": 85,
       "nombre_comun": "Focha Común",
       "nombre_cientifico": "Fulica atra",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Fulicaatra.jpg",
+      "png": "Fulicaatra.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Bl%C3%A4sshuhn_Fulica_atra_2_Richard_Bartz.jpg"
     },
     {
       "id": 86,
       "nombre_comun": "Focha Moruna",
       "nombre_cientifico": "Fulica cristata",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Fulicacristata.jpg",
+      "png": "Fulicacristata.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Fulica_cristata_-Cape_Town,_South_Africa_-adult-8.jpg"
     },
     {
       "id": 87,
       "nombre_comun": "Grulla Común",
       "nombre_cientifico": "Grus grus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Grusgrus.jpg",
+      "png": "Grusgrus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Common_crane_grus_grus.jpg"
     },
     {
       "id": 88,
