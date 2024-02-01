@@ -707,25 +707,25 @@
       "id": 88,
       "nombre_comun": "Avutarda Hubara",
       "nombre_cientifico": "Chlamydotis undulata",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Chlamydotisundulata.jpg",
+      "png": "Chlamydotisundulata.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Houbara035.JPG"
     },
     {
       "id": 89,
       "nombre_comun": "Avutarda Común",
       "nombre_cientifico": "Otis tarda",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Otistarda.jpg",
+      "png": "Otistarda.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Drop_f%C3%BAzat%C3%BD_(Otis_tarda)_(2416576086).jpg"
     },
     {
       "id": 90,
       "nombre_comun": "Ostrero Euroasiático",
       "nombre_cientifico": "Haematopus ostralegus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Haematopusostralegus.jpg",
+      "png": "Haematopusostralegus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Haematopus_ostralegus_1,_Isle_of_Skye,_Scotland_-_Diliff.jpg"
     },
     {
       "id": 91,
