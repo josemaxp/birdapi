@@ -728,140 +728,132 @@
       "referencia": "https://commons.wikimedia.org/wiki/File:Haematopus_ostralegus_1,_Isle_of_Skye,_Scotland_-_Diliff.jpg"
     },
     {
-      "id": 91,
-      "nombre_comun": "Ostrero Negro Canario",
-      "nombre_cientifico": "Haematopus meadewaldoi",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
-    },
-    {
       "id": 92,
       "nombre_comun": "Cigüeñuela Común",
       "nombre_cientifico": "Himantopus himantopus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Himantopushimantopus.jpg",
+      "png": "Himantopushimantopus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Himantopus_himantopus_-_Pak_Thale.jpg"
     },
     {
       "id": 93,
       "nombre_comun": "Avoceta Común",
       "nombre_cientifico": "Recurvirostra avosetta",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Recurvirostraavosetta.jpg",
+      "png": "Recurvirostraavosetta.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Pied_Avocet_Recurvirostra_avosetta.jpg"
     },
     {
       "id": 94,
       "nombre_comun": "Alcaraván Común",
       "nombre_cientifico": "Burhinus oedicnemus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Burhinusoedicnemus.jpg",
+      "png": "Burhinusoedicnemus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Burhinus_oedicnemus_insularum_Lanzarote_1.jpg"
     },
     {
       "id": 95,
       "nombre_comun": "Corredor Sahariano",
       "nombre_cientifico": "Cursorius cursor",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Cursoriuscursor.jpg",
+      "png": "Cursoriuscursor.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Cream-coloured_Courser_(Cursorius_cursor)_Tal_Chhapar,_Churu,_Rajasthan,_India_February_15th,_2013.jpg"
     },
     {
       "id": 96,
       "nombre_comun": "Canastera Común",
       "nombre_cientifico": "Glareola pratincola",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Glareolapratincola.jpg",
+      "png": "Glareolapratincola.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Collared_Pratincole_SM.jpg"
     },
     {
       "id": 97,
       "nombre_comun": "Chorlitejo Chico",
       "nombre_cientifico": "Charadrius dubius",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Charadriusdubius.jpg",
+      "png": "Charadriusdubius.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Flussregenpfeifer_Little_ringed_plover.jpg"
     },
     {
       "id": 98,
       "nombre_comun": "Chorlitejo Grande",
       "nombre_cientifico": "Charadrius hiaticula",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Charadriushiaticula.jpg",
+      "png": "Charadriushiaticula.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Charadrius_hiaticula_3_breeding.jpg"
     },
     {
       "id": 99,
       "nombre_comun": "Chorlitejo Patinegro",
       "nombre_cientifico": "Charadrius alexandrinus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Charadriusalexandrinus.jpg",
+      "png": "Charadriusalexandrinus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Charadrius_alexandrinus_-_Kentish_Plover_03.jpg"
     },
     {
       "id": 100,
       "nombre_comun": "Chorlito Carambolo",
       "nombre_cientifico": "Charadrius morinellus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Charadriusmorinellus.jpg",
+      "png": "Charadriusmorinellus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Charadrius_morinellus_male.jpg"
     },
     {
       "id": 101,
       "nombre_comun": "Avefría Europea",
       "nombre_cientifico": "Vanellus vanellus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Vanellusvanellus.jpg",
+      "png": "Vanellusvanellus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Northern_Lapwing.jpg"
     },
     {
       "id": 102,
       "nombre_comun": "Agachadiza Común",
       "nombre_cientifico": "Gallinago gallinago",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Gallinagogallinago.JPG",
+      "png": "Gallinagogallinago.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Gallinago_gallinago_a1.JPG"
     },
     {
       "id": 103,
       "nombre_comun": "Chocha perdiz",
       "nombre_cientifico": "Scolopax rusticola",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Scolopaxrusticola.jpg",
+      "png": "Scolopaxrusticola.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Woodcock_earthworm.jpg"
     },
     {
       "id": 104,
       "nombre_comun": "Aguja Colinegra",
       "nombre_cientifico": "Limosa limosa",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Limosalimosa.jpg",
+      "png": "Limosalimosa.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Black-tailed_Godwit_Uferschnepfe.jpg"
     },
     {
       "id": 105,
       "nombre_comun": "Zarapito Real",
       "nombre_cientifico": "Numenius arquata",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Numeniusarquata.jpg",
+      "png": "Numeniusarquata.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Eurasian_Curlew.jpg"
     },
     {
       "id": 106,
       "nombre_comun": "Archibebe Común",
       "nombre_cientifico": "Tringa totanus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Tringatotanus.jpg",
+      "png": "Tringatotanus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Common_Redshank_Tringa_totanus.jpg"
     },
     {
       "id": 107,
       "nombre_comun": "Andarríos Chico",
       "nombre_cientifico": "Actitis hypoleucos",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Actitishypoleucos.jpg",
+      "png": "Actitishypoleucos.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Common_sandpiper_lake_geneva-4.jpg"
     },
     {
       "id": 108,
