@@ -859,25 +859,25 @@
       "id": 108,
       "nombre_comun": "Gaviota Cabecinegra",
       "nombre_cientifico": "Ichthyaetus melanocephalus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Ichthyaetusmelanocephalus.jpg",
+      "png": "Ichthyaetusmelanocephalus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Larus_melanocephalus_aka_Mediterranean_Gull_rare_guest_in_Sweden2.jpg"
     },
     {
       "id": 109,
       "nombre_comun": "Gaviota Reidora",
       "nombre_cientifico": "Chroicocephalus ridibundus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Chroicocephalusridibundus.jpg",
+      "png": "Chroicocephalusridibundus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Chroicocephalus_ridibundus_(summer).jpg"
     },
     {
       "id": 110,
       "nombre_comun": "Gaviota Picofina",
       "nombre_cientifico": "Chroicocephalus genei",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Chroicocephalusgenei.jpg",
+      "png": "Chroicocephalusgenei.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Larus_genei.jpg"
     },
     {
       "id": 111,
