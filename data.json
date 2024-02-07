@@ -1059,73 +1059,73 @@
       "id": 133,
       "nombre_comun": "Tórtola Común",
       "nombre_cientifico": "Streptopelia turtur",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Streptopeliaturtur.jpg",
+      "png": "Streptopeliaturtur.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Streptopelia_turtur_Grlica0036.jpg"
     },
     {
       "id": 134,
       "nombre_comun": "Tórtola de Collar",
       "nombre_cientifico": "Streptopelia roseigrisea",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Streptopeliaroseigrisea.jpg",
+      "png": "Streptopeliaroseigrisea.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Streptopelia_roseogrisea,_Waza_NP,_Cameroon.jpg"
     },
     {
       "id": 135,
       "nombre_comun": "Cotorra Argentina",
       "nombre_cientifico": "Miyopsitta monachus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Miyopsittamonachus.jpg",
+      "png": "Miyopsittamonachus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Lora_Myiopsitta_en_un_sauce_de_Uruguay.jpg"
     },
     {
       "id": 136,
       "nombre_comun": "Cotorra de Kramer",
       "nombre_cientifico": "Psittacula krameri",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Psittaculakrameri.jpg",
+      "png": "Psittaculakrameri.png",
+      "referencia": "https://en.wikipedia.org/wiki/File:Rose-ringed_parakeet_(Psittacula_krameri_borealis)_male_Jaipur_2.jpg"
     },
     {
       "id": 137,
       "nombre_comun": "Críalo Europeo",
       "nombre_cientifico": "Clamator glandarius",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Clamatorglandarius.jpg",
+      "png": "Clamatorglandarius.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Clamator_glandarius_(cropped_2).jpg"
     },
     {
       "id": 138,
       "nombre_comun": "Cuco Común",
       "nombre_cientifico": "Cuculus canorus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Cuculuscanorus.jpg",
+      "png": "Cuculuscanorus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Cuculus_canorus_vogelartinfo_chris_romeiks_CHR0431.jpg"
     },
     {
       "id": 139,
       "nombre_comun": "Lechuza Común",
       "nombre_cientifico": "Tyto alba",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Tytoalba.jpg",
+      "png": "Tytoalba.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:%27Tutoke%27_-_geograph.org.uk_-_2532332.jpg"
     },
     {
       "id": 140,
       "nombre_comun": "Autillo Europeo",
       "nombre_cientifico": "Otus scops",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Otusscops.jpg",
+      "png": "Otusscops.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Scops_Owl_(Otus_scops),_Kalloni,_Lesvos,_Greece,_19.04.2015_(16773748434).jpg"
     },
     {
       "id": 141,
       "nombre_comun": "Mochuelo Europeo",
       "nombre_cientifico": "Athene noctua",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Athenenoctua.jpg",
+      "png": "Athenenoctua.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Mochuelo_Com%C3%BAn_(_Athene_noctua_)(1).jpg"
     },
     {
       "id": 142,
