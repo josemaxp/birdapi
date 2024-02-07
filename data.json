@@ -883,177 +883,177 @@
       "id": 111,
       "nombre_comun": "Gaviota de Audouin",
       "nombre_cientifico": "Ichthyaetus audouinii",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Ichthyaetusaudouinii.jpg",
+      "png": "Ichthyaetusaudouinii.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Ichthyaetus_audouinii.jpg"
     },
     {
       "id": 112,
       "nombre_comun": "Gaviota Sombría",
       "nombre_cientifico": "Larus fuscus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Larusfuscus.jpg",
+      "png": "Larusfuscus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Larus-fuscus-taxbox.jpg"
     },
     {
       "id": 113,
       "nombre_comun": "Gaviota Argéntea",
       "nombre_cientifico": "Larus argentatus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Larusargentatus.JPG",
+      "png": "Larusargentatus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Larus_argentatus_1.JPG"
     },
     {
       "id": 114,
       "nombre_comun": "Gaviota Patiamarilla",
       "nombre_cientifico": "Larus michahellis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Larusmichahellis.jpg",
+      "png": "Larusmichahellis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Larus_michahellis_in_Locarno_4.jpg"
     },
     {
       "id": 115,
       "nombre_comun": "Gaviota Tridáctila",
       "nombre_cientifico": "Rissa tridactyla",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Rissatridactyla.jpg",
+      "png": "Rissatridactyla.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Rissa_tridactyla_(Vard%C3%B8,_2012).jpg"
     },
     {
       "id": 116,
       "nombre_comun": "Pagaza Piconegra",
       "nombre_cientifico": "Gelochelidon nilotica",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Gelochelidonnilotica.jpg",
+      "png": "Gelochelidonnilotica.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Gelochelidon_nilotica_vanrossemi.jpg"
     },
     {
       "id": 117,
       "nombre_comun": "Charrán Bengalí",
       "nombre_cientifico": "Thalasseus bengalensis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Thalasseusbengalensis.jpg",
+      "png": "Thalasseusbengalensis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Lesser_crested_terns_(Thalasseus_bengalensis)_by_Shantanu_Kuveskar.jpg"
     },
     {
       "id": 118,
       "nombre_comun": "Charrán Patinegro",
       "nombre_cientifico": "Thalasseus sandvicensis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Thalasseussandvicensis.jpg",
+      "png": "Thalasseussandvicensis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:2020-07-18_Thalasseus_sandvicensis,_St_Marys_Island,_Northumberland_05.jpg"
     },
     {
       "id": 119,
       "nombre_comun": "Charrán Rosado",
       "nombre_cientifico": "Sterna dougallii",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Sternadougallii.jpg",
+      "png": "Sternadougallii.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:2021-07-10_Sterna_dougallii,_St_Marys_Island,_Northumberland_17.jpg"
     },
     {
       "id": 120,
       "nombre_comun": "Charrán Común",
       "nombre_cientifico": "Sterna hirundo",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Sternahirundo.jpg",
+      "png": "Sternahirundo.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Charr%C3%A1n_Com%C3%BAn_(Sterna_hirundo_hirundo)_in_Canary_Islands.jpg"
     },
     {
       "id": 121,
       "nombre_comun": "Charrancito Común",
       "nombre_cientifico": "Sternula albifrons",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Sternulaalbifrons.jpg",
+      "png": "Sternulaalbifrons.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Charrancito_Sternula_albifrons_1.jpg"
     },
     {
       "id": 122,
       "nombre_comun": "Fumarel Cariblanco",
       "nombre_cientifico": "Chlidonias hybrida",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Chlidoniashybrida.jpg",
+      "png": "Chlidoniashybrida.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Chlidonias_hybrida_3_(Marek_Szczepanek).jpg"
     },
     {
       "id": 123,
       "nombre_comun": "Fumarel Común",
       "nombre_cientifico": "Chlidonias niger",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Chlidoniasniger.jpg",
+      "png": "Chlidoniasniger.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:%C4%8Cor%C3%ADk_%C4%8Dierny_(Chlidonias_niger)_a_(4644831482).jpg"
     },
     {
       "id": 124,
       "nombre_comun": "Arao Común",
       "nombre_cientifico": "Uria aalge",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Uriaaalge.jpg",
+      "png": "Uriaaalge.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Common_Murre_RWD2.jpg"
     },
     {
       "id": 125,
       "nombre_comun": "Ganga Ortega",
       "nombre_cientifico": "Pterocles orientalis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Pteroclesorientalis.jpg",
+      "png": "Pteroclesorientalis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Pterocles_orientalis_in_flight.jpg"
     },
     {
       "id": 126,
       "nombre_comun": "Ganga ibérica",
       "nombre_cientifico": "Pterocles alchata",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Pteroclesalchata.jpg",
+      "png": "Pteroclesalchata.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Pin-tailed_sandgrouse_(Pterocles_alchata).jpg"
     },
     {
       "id": 127,
       "nombre_comun": "Paloma Bravía",
       "nombre_cientifico": "Columba livia",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Columbalivia.jpg",
+      "png": "Columbalivia.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:PigeonMonceau_(cropped).jpg"
     },
     {
       "id": 128,
       "nombre_comun": "Paloma Zurita",
       "nombre_cientifico": "Columba oenas",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Columbaoenas.jpg",
+      "png": "Columbaoenas.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Columba_oenas_Ouse_Valley_Sussex.jpg"
     },
     {
       "id": 129,
       "nombre_comun": "Paloma torcaz",
       "nombre_cientifico": "Columba palumbus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Columbapalumbus.jpg",
+      "png": "Columbapalumbus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Pigeon_ramier_2.JPG"
     },
     {
       "id": 130,
       "nombre_comun": "Paloma Turqué",
       "nombre_cientifico": "Columba bollii",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Columbabollii.jpg",
+      "png": "Columbabollii.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Lorbeertaube3_3.jpg"
     },
     {
       "id": 131,
       "nombre_comun": "Paloma Rabiche",
       "nombre_cientifico": "Columba junoniae",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Columbajunoniae.jpg",
+      "png": "Columbajunoniae.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Columba_junoniae_163958122.jpg"
     },
     {
       "id": 132,
       "nombre_comun": "Tórtola Turca",
       "nombre_cientifico": "Streptopelia decaocto",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Streptopeliadecaocto.jpg",
+      "png": "Streptopeliadecaocto.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Eurasian_Collared_Dove,_England_RWD2.jpg"
     },
     {
       "id": 133,
