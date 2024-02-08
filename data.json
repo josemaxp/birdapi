@@ -1363,57 +1363,57 @@
       "id": 171,
       "nombre_comun": "Alondra común",
       "nombre_cientifico": "Alauda arvensis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Alaudaarvensis.jpg",
+      "png": "Alaudaarvensis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Alauda_arvensis_2.jpg"
     },
     {
       "id": 172,
       "nombre_comun": "Avión Zapador",
       "nombre_cientifico": "Riparia riparia",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Ripariariparia.jpg",
+      "png": "Ripariariparia.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Digesvale.jpg"
     },
     {
       "id": 173,
       "nombre_comun": "Avión Roquero",
       "nombre_cientifico": "Ptyonoprogne rupestris",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Ptyonoprognerupestris.jpg",
+      "png": "Ptyonoprognerupestris.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Ptyonoprogne_rupestris_-Europe-8.jpg"
     },
     {
       "id": 174,
       "nombre_comun": "Golondrina Común",
       "nombre_cientifico": "Hirundo rustica",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Hirundorustica.jpg",
+      "png": "Hirundorustica.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Landsvale.jpg"
     },
     {
       "id": 175,
       "nombre_comun": "Golondrina Dáurica",
       "nombre_cientifico": "Cecropis daurica",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Cecropisdaurica.jpg",
+      "png": "Cecropisdaurica.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Golondrina_d%C3%A1urica_Cecropis_daurica_1.jpg"
     },
     {
       "id": 176,
       "nombre_comun": "Avión Común",
       "nombre_cientifico": "Delichon urbicum",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Delichonurbicum.jpg",
+      "png": "Delichonurbicum.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Delichon_urbicum_-Iceland_-flying-8_(1).jpg"
     },
     {
       "id": 177,
       "nombre_comun": "Bisbita Campestre",
       "nombre_cientifico": "Anthus campestris",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Anthuscampestris.jpg",
+      "png": "Anthuscampestris.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:AnthusCampestris_cropped.jpg"
     },
     {
       "id": 178,
