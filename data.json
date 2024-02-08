@@ -1131,233 +1131,233 @@
       "id": 142,
       "nombre_comun": "Cárabo Común",
       "nombre_cientifico": "Strix aluco",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Strixaluco.jpg",
+      "png": "Strixaluco.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Tawny_wiki_edit1.jpg"
     },
     {
       "id": 143,
       "nombre_comun": "Búho Chico",
       "nombre_cientifico": "Asio otus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Asiootus.JPG",
+      "png": "Asiootus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Asio_otus11.JPG"
     },
     {
       "id": 144,
       "nombre_comun": "Búho Campestre",
       "nombre_cientifico": "Asio flammeus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Asioflammeus.jpg",
+      "png": "Asioflammeus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Asio-flammeus-001.jpg"
     },
     {
       "id": 145,
       "nombre_comun": "Mochuelo Boreal",
       "nombre_cientifico": "Aegolius funereus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Aegoliusfunereus.jpg",
+      "png": "Aegoliusfunereus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Aegolius-funereus-001.jpg"
     },
     {
       "id": 146,
       "nombre_comun": "Chotacabras Europeo",
       "nombre_cientifico": "Caprimulgus europaeus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Caprimulguseuropaeus.jpg",
+      "png": "Caprimulguseuropaeus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:%C5%9Eivanxap%C3%AEnok.jpg"
     },
     {
       "id": 147,
       "nombre_comun": "Chotacabras cuellirrojo",
       "nombre_cientifico": "Caprimulgus ruficollis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Caprimulgusruficollis.jpg",
+      "png": "Caprimulgusruficollis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Caprimulgus_ruficollis_-Portugal-8.jpg"
     },
     {
       "id": 148,
       "nombre_comun": "Vencejo Unicolor",
       "nombre_cientifico": "Apus unicolor",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Apusunicolor.jpg",
+      "png": "Apusunicolor.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Einfarbsegler.jpg"
     },
     {
       "id": 149,
       "nombre_comun": "Vencejo Común",
       "nombre_cientifico": "Apus apus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Apusapus.jpg",
+      "png": "Apusapus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Apus_apus_-Barcelona,_Spain-8_(1).jpg"
     },
     {
       "id": 150,
       "nombre_comun": "Vencejo Pálido",
       "nombre_cientifico": "Apus pallidus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Apuspallidus.jpg",
+      "png": "Apuspallidus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Apus_pallidus_-Greece-8.jpg"
     },
     {
       "id": 151,
       "nombre_comun": "Vencejo Real",
       "nombre_cientifico": "Apus melba",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Apusmelba.jpg",
+      "png": "Apusmelba.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:%CE%92%CE%BF%CF%85%CE%BD%CE%BF%CF%83%CF%84%CE%B1%CF%87%CF%84%CE%AC%CF%81%CE%B1_Alpine_Swift_Tachymarptis_melba.jpg"
     },
     {
       "id": 152,
       "nombre_comun": "Vencejo Cafre",
       "nombre_cientifico": "Apus caffer",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Apuscaffer.jpg",
+      "png": "Apuscaffer.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:White-rumped_swift,_Apus_caffer,_at_Suikerbosrand_Nature_Reserve,_Gauteng,_South_Africa_(22724578894).jpg"
     },
     {
       "id": 153,
       "nombre_comun": "Martín Pescador Común",
       "nombre_cientifico": "Alcedo atthis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Alcedoatthis.jpg",
+      "png": "Alcedoatthis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg"
     },
     {
       "id": 154,
       "nombre_comun": "Abejaruco Europeo",
       "nombre_cientifico": "Merops apiaster",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Meropsapiaster.jpg",
+      "png": "Meropsapiaster.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:%C5%9Eahl%C3%BBr-33.jpg"
     },
     {
       "id": 155,
       "nombre_comun": "Carraca Europea",
       "nombre_cientifico": "Coracias garrulus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Coraciasgarrulus.jpg",
+      "png": "Coraciasgarrulus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:European_roller.jpg"
     },
     {
       "id": 156,
       "nombre_comun": "Abubilla",
       "nombre_cientifico": "Upupa epops",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Upupaepops.jpg",
+      "png": "Upupaepops.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Eurasian_hoopoe_by_Gunjan_Pandey.jpg"
     },
     {
       "id": 157,
       "nombre_comun": "Torcecuello Euroasiático",
       "nombre_cientifico": "Jynx torquilla",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Jynxtorquilla.jpg",
+      "png": "Jynxtorquilla.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Northern_wryneck_by_David_Raju_(cropped).jpg"
     },
     {
       "id": 158,
       "nombre_comun": "Pito Real",
       "nombre_cientifico": "Picus sharpei",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Picussharpei.jpg",
+      "png": "Picussharpei.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Picus_viridis_sharpei_080.jpg"
     },
     {
       "id": 159,
       "nombre_comun": "Picamaderos negro",
       "nombre_cientifico": "Dryocopus martius",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Dryocopusmartius.jpg",
+      "png": "Dryocopusmartius.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:%D0%96%D0%B5%D0%BB%D0%BD%D0%B0_(Dryocopus_martius,_fem),_%C2%AB%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D1%83%D0%BC%D0%B0%D1%88%D0%B5%D1%88%D0%B0%D1%8F%C2%BB.jpg"
     },
     {
       "id": 160,
       "nombre_comun": "Pico Picapinos",
       "nombre_cientifico": "Dendrocopos major",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Dendrocoposmajor.jpg",
+      "png": "Dendrocoposmajor.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Dendrocopos_major_2_(Marek_Szczepanek).jpg"
     },
     {
       "id": 161,
       "nombre_comun": "Pico Mediano",
       "nombre_cientifico": "Dendropicos medius",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Dendropicosmedius.jpg",
+      "png": "Dendropicosmedius.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Daarkoob,_Kordestan.jpg"
     },
     {
       "id": 162,
       "nombre_comun": "Pico Dorsiblanco",
       "nombre_cientifico": "Dendrocopos leucotos",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Dendrocoposleucotos.JPG",
+      "png": "Dendrocoposleucotos.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Wei%C3%9Fr%C3%BCckenspecht_in_den_Chiemgauer_Alpen.JPG"
     },
     {
       "id": 163,
       "nombre_comun": "Pico Menor",
       "nombre_cientifico": "Dryobates minor",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Dryobatesminor.jpg",
+      "png": "Dryobatesminor.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%BF%D1%91%D1%81%D1%82%D1%80%D1%8B%D0%B9_%D0%B4%D1%8F%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D1%80%D0%B5%D0%BF%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA%D0%B5_(Dendrocopos_minor,_fem),_%D0%9A%D1%80%D1%8B%D0%BB%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D1%85%D0%BE%D0%BB%D0%BC%D1%8B.jpg"
     },
     {
       "id": 164,
       "nombre_comun": "Alondra Ricotí",
       "nombre_cientifico": "Chersophilus duponti",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Chersophilusduponti.jpg",
+      "png": "Chersophilusduponti.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Chersophilus_duponti_5692972.jpg"
     },
     {
       "id": 165,
       "nombre_comun": "Calandria",
       "nombre_cientifico": "Melanocorypha calandra",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Melanocoryphacalandra.jpg",
+      "png": "Melanocoryphacalandra.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Melanocorypha_calandra.jpg"
     },
     {
       "id": 166,
       "nombre_comun": "Terrera Común",
       "nombre_cientifico": "Calandrella brachydactyla",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Calandrellabrachydactyla.jpg",
+      "png": "Calandrellabrachydactyla.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Alondra.jpg"
     },
     {
       "id": 167,
       "nombre_comun": "Terrera Marismeña",
       "nombre_cientifico": "Alaudala rufescens",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Alaudalarufescens.jpg",
+      "png": "Alaudalarufescens.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Terrera_Marisme%C3%B1a,_Calandrella_rufescens_(5824832901).jpg"
     },
     {
       "id": 168,
       "nombre_comun": "Cogujada Común",
       "nombre_cientifico": "Galerida cristata",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Galeridacristata.jpg",
+      "png": "Galeridacristata.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Crested_Lark_-_Qatar.jpg"
     },
     {
       "id": 169,
       "nombre_comun": "Cogujada Montesina",
       "nombre_cientifico": "Galerida theklae",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Galeridatheklae.jpg",
+      "png": "Galeridatheklae.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Thekla%27s_lark_(Galerida_theklae_theklae)_Loja.jpg"
     },
     {
       "id": 170,
       "nombre_comun": "Alondra Totovía",
       "nombre_cientifico": "Lullula arborea",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Lullulaarborea.jpg",
+      "png": "Lullulaarborea.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Lullula_arborea_(J%C3%A1n_Svetl%C3%ADk).jpg"
     },
     {
       "id": 171,
