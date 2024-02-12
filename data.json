@@ -131,9 +131,9 @@
       "id": 16,
       "nombre_comun": "Cormorán moñudo",
       "nombre_cientifico": "Phalacrocorax aristotelis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Phalacrocoraxaristotelis.jpg",
+      "png": "Phalacrocoraxaristotelis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Shag_at_Brownsea_Isalnd_(8501110738).jpg"
     },
     {
       "id": 17,
@@ -1419,105 +1419,105 @@
       "id": 178,
       "nombre_comun": "Bisbita Caminero",
       "nombre_cientifico": "Anthus berthelotii",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Anthusberthelotii.jpg",
+      "png": "Anthusberthelotii.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Anthus_berthelotii_3.jpg"
     },
     {
       "id": 179,
       "nombre_comun": "Bisbita Arbóreo",
       "nombre_cientifico": "Anthus trivialis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Anthustrivialis.jpg",
+      "png": "Anthustrivialis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Anthus_triviallis_(Marek_Szczepanek).jpg"
     },
     {
       "id": 180,
       "nombre_comun": "Bisbita Común",
       "nombre_cientifico": "Anthus pratensis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Anthuspratensis.jpg",
+      "png": "Anthuspratensis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Anthus_pratensis.jpg"
     },
     {
       "id": 181,
       "nombre_comun": "Bisbita Alpino",
       "nombre_cientifico": "Anthus spinoletta",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Anthusspinoletta.jpg",
+      "png": "Anthusspinoletta.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Anthus_spinoletta_-_Water_Pipit,_Kahramanmara%C5%9F_2016-11-18_01-10.jpg"
     },
     {
       "id": 182,
       "nombre_comun": "Lavandera Boyera",
       "nombre_cientifico": "Motacilla flava",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Motacillaflava.jpg",
+      "png": "Motacillaflava.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Yellow_wagtail.jpg"
     },
     {
       "id": 183,
       "nombre_comun": "Lavandera Cascadeña",
       "nombre_cientifico": "Motacilla cinerea",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Motacillacinerea.jpg",
+      "png": "Motacillacinerea.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Grey_wagtail_by_Gunjan_Pandey.jpg"
     },
     {
       "id": 184,
       "nombre_comun": "Lavandera Blanca",
       "nombre_cientifico": "Motacilla alba",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Motacillaalba.jpg",
+      "png": "Motacillaalba.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:White-Wagtail.jpg"
     },
     {
       "id": 185,
       "nombre_comun": "Mirlo Acuático",
       "nombre_cientifico": "Cinclus cinclus",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Cincluscinclus.jpg",
+      "png": "Cincluscinclus.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Cinclus_cinclus_R(ThKraft).jpg"
     },
     {
       "id": 186,
       "nombre_comun": "Chochín",
       "nombre_cientifico": "Troglodytes troglodytes",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Troglodytestroglodytes.jpg",
+      "png": "Troglodytestroglodytes.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Zaunkoenig-photo.jpg"
     },
     {
       "id": 187,
       "nombre_comun": "Acentor Común",
       "nombre_cientifico": "Prunella modularis",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Prunellamodularis.jpg",
+      "png": "Prunellamodularis.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Acentor_com%C3%BAn23_by_Paco_G%C3%B3mez.jpg"
     },
     {
       "id": 188,
       "nombre_comun": "Acentor Alpino",
       "nombre_cientifico": "Prunella collaris",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Prunellacollaris.jpg",
+      "png": "Prunellacollaris.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Alpine_Accentor_Lungthu_Pangolakha_WLS_East_Sikkim_India_08.11.2015.jpg"
     },
     {
       "id": 189,
       "nombre_comun": "Alzacola Rojizo",
       "nombre_cientifico": "Cercotrichas galactotes",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Cercotrichasgalactotes.jpg",
+      "png": "Cercotrichasgalactotes.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Agrobate_roux_au_Parc_National_de_l%27Ichkeul_(Tunisia),_crop.jpg"
     },
     {
       "id": 190,
       "nombre_comun": "Petirrojo",
       "nombre_cientifico": "Erithacus rubecula",
-      "jpg": "nulo",
-      "png": "nulo",
-      "referencia": "nulo"
+      "jpg": "Erithacusrubecula.jpg",
+      "png": "Erithacusrubecula.png",
+      "referencia": "https://commons.wikimedia.org/wiki/File:Rouge_gorge_familier_-_crop_(WB_correction).jpg"
     },
     {
       "id": 191,
