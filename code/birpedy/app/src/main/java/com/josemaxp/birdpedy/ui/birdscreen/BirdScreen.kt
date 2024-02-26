@@ -14,6 +14,7 @@ import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.offset
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
@@ -26,9 +27,11 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.Layout
 import androidx.compose.ui.platform.LocalDensity
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
@@ -38,6 +41,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.lerp
 import androidx.compose.ui.util.lerp
 import androidx.navigation.NavHostController
+import com.josemaxp.birdpedy.R
 import com.josemaxp.birdpedy.dao.birds.Bird
 import com.josemaxp.birdpedy.dao.families.Family
 import com.josemaxp.birdpedy.dao.families.FamilyViewModel
@@ -118,6 +122,31 @@ private fun Body(
     selectedFamily: Family?,
     selectedOrder: Order?
 ) {
+    val status = if(bird.amenaza == null || bird.amenaza == "" || bird.amenaza == "nulo"){
+        R.drawable.dd
+    }else if(bird.amenaza.contains("cr")){
+        R.drawable.cr
+    }else if(bird.amenaza.contains("dd")){
+        R.drawable.dd
+    }else if(bird.amenaza.contains("en")){
+        R.drawable.en
+    }else if(bird.amenaza.contains("ex")){
+        R.drawable.ex
+    }else if(bird.amenaza.contains("lc")){
+        R.drawable.lc
+    }else if(bird.amenaza.contains("ne")){
+        R.drawable.ne
+    }else if(bird.amenaza.contains("nt")){
+        R.drawable.nt
+    }else if(bird.amenaza.contains("re")){
+        R.drawable.re
+    }else if(bird.amenaza.contains("vu")){
+        R.drawable.vu
+    }else{
+        R.drawable.dd
+    }
+
+
     Column (modifier = Modifier.padding(top = 16.dp)) {
         Spacer(
             modifier = Modifier
@@ -134,6 +163,29 @@ private fun Body(
                 Spacer(Modifier.height(TitleHeight))
 
                 Spacer(Modifier.height(16.dp))
+
+
+                Column (
+                    modifier = Modifier.fillMaxWidth(),
+                    verticalArrangement = Arrangement.Center,
+                    horizontalAlignment = Alignment.CenterHorizontally
+                ) {
+                    Text(
+                        text = "Estado de conservación",
+                        style = MaterialTheme.typography.bodyLarge,
+                        fontWeight = FontWeight.Bold,
+                        color = MaterialTheme.colorScheme.secondary,
+                        modifier = HzPadding
+                    )
+                    Spacer(Modifier.height(8.dp))
+                    androidx.compose.foundation.Image(
+                        painter = painterResource(status),
+                        contentDescription = "",
+                        modifier = Modifier.size(100.dp)
+                    )
+                }
+                Spacer(Modifier.height(40.dp))
+
                 Row {
                     Column (modifier = Modifier.weight(1f)) {
                         Text(
@@ -143,6 +195,7 @@ private fun Body(
                             color = MaterialTheme.colorScheme.secondary,
                             modifier = HzPadding
                         )
+                        Spacer(Modifier.height(8.dp))
                         Text(
                             text = selectedFamily?.nombre ?: "Información incompleta",
                             style = MaterialTheme.typography.bodyLarge,
@@ -159,8 +212,47 @@ private fun Body(
                             color = MaterialTheme.colorScheme.secondary,
                             modifier = HzPadding
                         )
+                        Spacer(Modifier.height(8.dp))
                         Text(
                             text = selectedOrder?.nombre ?: "Información incompleta",
+                            style = MaterialTheme.typography.bodyLarge,
+                            fontWeight = FontWeight.Bold,
+                            color = MaterialTheme.colorScheme.primary,
+                            modifier = HzPadding
+                        )
+                    }
+                }
+
+                Spacer(Modifier.height(40.dp))
+                Row {
+                    Column (modifier = Modifier.weight(1f)) {
+                        Text(
+                            text = "Longitud",
+                            style = MaterialTheme.typography.bodyLarge,
+                            fontWeight = FontWeight.Bold,
+                            color = MaterialTheme.colorScheme.secondary,
+                            modifier = HzPadding
+                        )
+                        Spacer(Modifier.height(8.dp))
+                        Text(
+                            text = bird.longitud ?: "Información incompleta",
+                            style = MaterialTheme.typography.bodyLarge,
+                            fontWeight = FontWeight.Bold,
+                            color = MaterialTheme.colorScheme.primary,
+                            modifier = HzPadding
+                        )
+                    }
+                    Column (modifier = Modifier.weight(1f)) {
+                        Text(
+                            text = "Envergadura",
+                            style = MaterialTheme.typography.bodyLarge,
+                            fontWeight = FontWeight.Bold,
+                            color = MaterialTheme.colorScheme.secondary,
+                            modifier = HzPadding
+                        )
+                        Spacer(Modifier.height(8.dp))
+                        Text(
+                            text = bird.envergadura ?: "Información incompleta",
                             style = MaterialTheme.typography.bodyLarge,
                             fontWeight = FontWeight.Bold,
                             color = MaterialTheme.colorScheme.primary,
