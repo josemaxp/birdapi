@@ -9,10 +9,10 @@ mejores puntos, y da el mapa de distribución en cuadrículas de 10 km. Lo leen 
 
 ## Cómo citarlo
 
-> GBIF.org (21 October 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.b94gbm
+> GBIF.org (23 October 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.r5sf2a
 
-Registros de 2020 a 2024, descargados de GBIF el 21/10/2026 y publicados aquí el
-22/10/2026.
+Registros de 2020 a 2024, descargados de GBIF el 23/10/2026 y publicados aquí el
+23/10/2026.
 
 ## Licencia
 
@@ -23,10 +23,10 @@ fuentes. Se pueden reutilizar sin fines comerciales, citando la descarga de arri
 
 | Fuente | Conjunto de datos | Editor | Licencia | DOI | Registros |
 |---|---|---|---|---|---|
-| Observation.org | Observation.org, Nature data from around the World | Observation.org | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | [10.15468/5nilie](https://doi.org/10.15468/5nilie) | 1.013.125 |
-| eBird | EOD – eBird Observation Dataset | Cornell Lab of Ornithology | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [10.15468/aomfnb](https://doi.org/10.15468/aomfnb) | 23.693.991 |
-| iNaturalist | iNaturalist Research-grade Observations | iNaturalist.org | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | [10.15468/ab3s5x](https://doi.org/10.15468/ab3s5x) | 318.071 |
-| ICO | Data collected on citizen science web portal www.ornitho.cat | ICO-Institut Català d'Ornitologia (Catalan Ornithological Institute) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [10.15470/dijq3a](https://doi.org/10.15470/dijq3a) | 313.512 |
+| Observation.org | Observation.org, Nature data from around the World | Observation.org | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | [10.15468/5nilie](https://doi.org/10.15468/5nilie) | 1.023.627 |
+| eBird | EOD – eBird Observation Dataset | Cornell Lab of Ornithology | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [10.15468/aomfnb](https://doi.org/10.15468/aomfnb) | 23.873.171 |
+| iNaturalist | iNaturalist Research-grade Observations | iNaturalist.org | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | [10.15468/ab3s5x](https://doi.org/10.15468/ab3s5x) | 320.635 |
+| ICO | Data collected on citizen science web portal www.ornitho.cat | ICO-Institut Català d'Ornitologia (Catalan Ornithological Institute) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [10.15470/dijq3a](https://doi.org/10.15470/dijq3a) | 321.176 |
 
 Registros: los de cada conjunto en la descarga. Cada punto dice de qué fuente es (`fuente`); los meses y el mapa
 suman las cuatro.
@@ -40,12 +40,16 @@ suman las cuatro.
   no son un punto exacto.
 - Nada de iNaturalist con la ubicación difuminada, y solo registros con una incertidumbre de 10 km o menos (los
   puntos, de 1 km o menos). La consulta a GBIF entera está en `indice.json` (`consulta`).
+- También cuentan los registros que GBIF aún no casa con ninguna especie (a la mayoría los lleva solo al género) si la
+  fuente los da con un nombre que en el catálogo es de una sola especie (*Thinornis dubius*, el nombre que da eBird al
+  chorlitejo chico). La lista está en `indice.json` (`sin_clave`). Los que son solo de un género, los híbridos y
+  los "A / B" no cuentan.
 
 ## Formato
 
 ```
 {"id": 154, "especie": "Merops apiaster", "gbif": [2475443], "periodo": [2020, 2024],
- "fuentes": ["observation", "ebird", "inaturalist", "ico"], "doi": "10.15468/dl.b94gbm",
+ "fuentes": ["observation", "ebird", "inaturalist", "ico"], "doi": "10.15468/dl.r5sf2a",
  "provincias": {"ESP.8.1_1": {"nombre": "Madrid",
                               "meses": [[años, frecuencia], ... 12, de enero a diciembre],
                               "mejores": [8, 7, 5],
@@ -71,10 +75,10 @@ and the best spots, plus a distribution map in 10 km squares. The BirdPedy app a
 
 ## How to cite
 
-> GBIF.org (21 October 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.b94gbm
+> GBIF.org (23 October 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.r5sf2a
 
-Records from 2020 to 2024, downloaded from GBIF on 21 October 2026 and published here on
-22 October 2026.
+Records from 2020 to 2024, downloaded from GBIF on 23 October 2026 and published here on
+23 October 2026.
 
 ## Licence
 
@@ -85,10 +89,10 @@ sources. You may reuse the files for non-commercial purposes, citing the downloa
 
 | Source | Dataset | Publisher | Licence | DOI | Records |
 |---|---|---|---|---|---|
-| Observation.org | Observation.org, Nature data from around the World | Observation.org | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | [10.15468/5nilie](https://doi.org/10.15468/5nilie) | 1,013,125 |
-| eBird | EOD – eBird Observation Dataset | Cornell Lab of Ornithology | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [10.15468/aomfnb](https://doi.org/10.15468/aomfnb) | 23,693,991 |
-| iNaturalist | iNaturalist Research-grade Observations | iNaturalist.org | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | [10.15468/ab3s5x](https://doi.org/10.15468/ab3s5x) | 318,071 |
-| ICO | Data collected on citizen science web portal www.ornitho.cat | ICO-Institut Català d'Ornitologia (Catalan Ornithological Institute) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [10.15470/dijq3a](https://doi.org/10.15470/dijq3a) | 313,512 |
+| Observation.org | Observation.org, Nature data from around the World | Observation.org | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | [10.15468/5nilie](https://doi.org/10.15468/5nilie) | 1,023,627 |
+| eBird | EOD – eBird Observation Dataset | Cornell Lab of Ornithology | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [10.15468/aomfnb](https://doi.org/10.15468/aomfnb) | 23,873,171 |
+| iNaturalist | iNaturalist Research-grade Observations | iNaturalist.org | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | [10.15468/ab3s5x](https://doi.org/10.15468/ab3s5x) | 320,635 |
+| ICO | Data collected on citizen science web portal www.ornitho.cat | ICO-Institut Català d'Ornitologia (Catalan Ornithological Institute) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [10.15470/dijq3a](https://doi.org/10.15470/dijq3a) | 321,176 |
 
 Records: those of each dataset in the download. Each spot says which source it comes from (`fuente`); months and the
 map add up all four.
@@ -102,5 +106,9 @@ map add up all four.
   exact point.
 - Nothing from iNaturalist with an obscured location, and only records with an uncertainty of 10 km or less (1 km or
   less for spots). The full GBIF query is in `indice.json` (`consulta`).
+- Records that GBIF does not yet match to any species (most of them only to their genus) also count when the source
+  gives them a name that belongs to a single catalogue species (*Thinornis dubius*, eBird's name for
+  the little ringed plover). The list is in `indice.json` (`sin_clave`). Genus-only records, hybrids and "A / B"
+  records do not count.
 
 The format is described above, in Spanish: field names are the same.
