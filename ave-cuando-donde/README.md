@@ -12,7 +12,7 @@ mejores puntos, y da el mapa de distribución en cuadrículas de 10 km. Lo leen 
 > GBIF.org (23 October 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.r5sf2a
 
 Registros de 2020 a 2024, descargados de GBIF el 23/10/2026 y publicados aquí el
-23/10/2026.
+24/10/2026.
 
 ## Licencia
 
@@ -78,7 +78,7 @@ and the best spots, plus a distribution map in 10 km squares. The BirdPedy app a
 > GBIF.org (23 October 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.r5sf2a
 
 Records from 2020 to 2024, downloaded from GBIF on 23 October 2026 and published here on
-23 October 2026.
+24 October 2026.
 
 ## Licence
 
