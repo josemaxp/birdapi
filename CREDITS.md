@@ -551,6 +551,7 @@ The photos in `images/*.jpg` are copies from Wikimedia Commons (except the Barol
 | Roquero rojo (*Monticola saxatilis*) | Pierre Dalous | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Monsax.jpg) |
 | Roquero solitario (*Monticola solitarius*) | Artemy Voikhansky | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Blue_rock_thrush_(male)_at_Gamla_Nature_Reserve.jpg) |
 | Ruiseñor azul (*Larvivora cyane*) | JJ Harrison (https://www.jjharrison.com.au/) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Luscinia_cyane_-_Khao_Yai.jpg) |
+| Ruiseñor calíope (*Calliope calliope*) | Shiv's fotografia | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Siberian_Rubythroat_Facts_03.jpg) |
 | Ruiseñor coliazul (*Tarsiger cyanurus*) | M.Nishimura | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Tarsiger_cyanurus.jpg) |
 | Ruiseñor común (*Luscinia megarhynchos*) | Carlos Delgado | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Luscinia_megarhynchos_-_01.jpg) |
 | Ruiseñor pechiazul (*Luscinia svecica*) | Bogomolov.PL | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Luscinia_svecica_volgae.jpg) |
