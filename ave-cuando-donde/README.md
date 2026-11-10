@@ -19,7 +19,7 @@ Los años y días de cada fuente (`cuanto`):
 > GBIF.org (6 November 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.gwrkza
 
 Registros de 2020 a 2025, descargados de GBIF el 6/11/2026 y el
-6/11/2026, y publicados aquí el 6/11/2026.
+6/11/2026, y publicados aquí el 10/11/2026.
 
 ## Licencia
 
@@ -103,7 +103,7 @@ Years and days of each source (`cuanto`):
 > GBIF.org (6 November 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.gwrkza
 
 Records from 2020 to 2025, downloaded from GBIF on 6 November 2026 and
-6 November 2026, and published here on 6 November 2026.
+6 November 2026, and published here on 10 November 2026.
 
 ## Licence
 
